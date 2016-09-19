@@ -60,7 +60,7 @@
 			</div>
 		</header>
 
-		<div class="fh5co-hero" style="background-image: url(images/contact.jpg);" data-stellar-background-ratio="0.5">
+		<div class="fh5co-hero" style="background-image: url(images/contactme.jpg);" data-stellar-background-ratio="0.5">
 			<div class="overlay"></div>
 			<div class="container">
 				<div class="row">
