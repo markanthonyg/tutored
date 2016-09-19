@@ -78,11 +78,8 @@
 						<div class="fh5co-intro fh5co-table-cell">
 							<h1 class="text-center">Learn English</h1>
 							<p>The easy way</p>
-							<div class="form-group">
-								<div class="col-md-12" align="center">
-
-							</div>
-							</div>
+							<br/>
+							<a href="#schedule" class="btn btn-info btn-lg"><span class="glyphicon glyphicon-menu-down"></span>  Schedule Now</a>
 						</div>
 					</div>
 				</div>
@@ -91,7 +88,7 @@
 		<div class="fh5co-section">
 			<div class="container">
 				<div class="row">
-					<div class="col-md-5">
+					<div id="schedule" class="col-md-5">
 						<h2>Set Your Appointment </h2>
 						{!! Form::open(['action' => 'HomeController@showLanding']) !!}
 
