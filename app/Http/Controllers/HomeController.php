@@ -15,4 +15,8 @@ class HomeController extends Controller
     public function setupAppointment() {
       return view('landing');
     }
+
+    public function showContact() {
+      return view('contact');
+    }
 }

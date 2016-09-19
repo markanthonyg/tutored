@@ -12,3 +12,4 @@
 */
 
 Route::get('/', 'HomeController@showLanding');
+Route::get('/contact', 'HomeController@showContact');
